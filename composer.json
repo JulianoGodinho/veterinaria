@@ -1,0 +1,16 @@
+{
+    "name": "godinho/petshop",
+    "description": "exemplo petshop",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juliano Godinho",
+            "email": "julianogodinho99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}

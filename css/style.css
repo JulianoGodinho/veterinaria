@@ -1,0 +1,14 @@
+.pagina {
+  background-image: url("../imagem/veterinariaphp.jpg");
+
+}
+<style>
+body {
+  background-image: url("../imagem/veterinariaphp.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+
+
+}
+</style>
